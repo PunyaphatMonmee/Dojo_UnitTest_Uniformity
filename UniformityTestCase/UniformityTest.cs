@@ -5,11 +5,11 @@ namespace UniformityTestCase
     public class UniformityTest
     {
         [Fact]
-        public void »ÃÔÁÒ³·Ñé§ËÁ´_852_µÑÇ_¡ÃÍ¡»ÃÔÁÒ³_Uniformity_Åº_1_ºÑ¹·Ö¡äÁèä´é()
+        public void ï¿½ï¿½ï¿½ï¿½Ò³ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½_852_ï¿½ï¿½ï¿½_ï¿½ï¿½Í¡ï¿½ï¿½ï¿½ï¿½Ò³_Uniformity_Åº_1_ï¿½Ñ¹ï¿½Ö¡ï¿½ï¿½ï¿½ï¿½ï¿½()
         {
             //3A
             //Arrange
-            int qtyAll = 852;
+            int qtyAll = 855;
             int qtyUniformity = -1;
             bool expected = false;
             Uniformity uniformity = new Uniformity();
