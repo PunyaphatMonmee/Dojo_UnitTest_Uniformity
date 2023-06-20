@@ -13,6 +13,7 @@ namespace UniformityTestCase
             int qtyUniformity = -1;
             bool expected = false;
             Uniformity uniformity = new Uniformity();
+
             //Act
             bool actual = uniformity.Isvaild(qtyAll, qtyUniformity);
 
