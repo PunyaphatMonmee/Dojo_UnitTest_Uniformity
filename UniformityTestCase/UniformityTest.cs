@@ -5,11 +5,11 @@ namespace UniformityTestCase
     public class UniformityTest
     {
         [Fact]
-        public void ����ҳ������_852_���_��͡����ҳ_Uniformity_ź_1_�ѹ�֡�����()
+        public void ปริมาณทั้งหมด_852_ตัว_กรอกปริมาณ_Uniformity_ลบ_1_บันทึกไม่ได้()
         {
             //3A
             //Arrange
-            int qtyAll = 855;
+            int qtyAll = 852;
             int qtyUniformity = -1;
             bool expected = false;
             Uniformity uniformity = new Uniformity();
